@@ -1,0 +1,13 @@
+{
+  "name": "book-site",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
